@@ -92,7 +92,7 @@ Add your projects here! Use the [[Project Template]] to create new project notes
 ### Business
 - [[Revenue Tracker]]
 - [[Project Template]]
-- [[Customer/Client Template]]
+- [[Customer Template]]
 
 ### Resources
 - [[Quick Start Guide]]
