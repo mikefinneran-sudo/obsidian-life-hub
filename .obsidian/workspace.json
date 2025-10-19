@@ -1,0 +1,57 @@
+{
+  "main": {
+    "id": "main-workspace",
+    "type": "split",
+    "children": [
+      {
+        "id": "center",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "tab-1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "left-sidebar",
+    "type": "split",
+    "children": [
+      {
+        "id": "file-explorer",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "file-explorer-tab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "right-sidebar",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "tab-1"
+}
