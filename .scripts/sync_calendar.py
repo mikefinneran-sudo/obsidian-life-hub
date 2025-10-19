@@ -21,7 +21,9 @@ except ImportError:
     print("Run: pip3 install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib")
     sys.exit(1)
 
-VAULT_PATH = Path.home() / "Documents" / "ObsidianVault"
+# Auto-detect vault path (script is in .scripts/ folder)
+SCRIPT_DIR = Path(__file__).parent.resolve()
+VAULT_PATH = SCRIPT_DIR.parent
 DAILY_DIR = VAULT_PATH / "Daily"
 SCOPES = ['https://www.googleapis.com/auth/calendar.readonly']
 
