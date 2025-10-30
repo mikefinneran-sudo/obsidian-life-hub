@@ -14,10 +14,7 @@
 
 ## 📊 Projects
 
-### WalterFetch
-- [ ]
-
-### Other Projects
+### Active Projects
 - [ ]
 
 ## 💡 Ideas & Notes

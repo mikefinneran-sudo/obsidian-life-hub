@@ -79,7 +79,6 @@ If Obsidian Life Hub doesn't work for you, just email for a full refund. No ques
 
 ## Support
 
-Email: hello@waltersignal.ai
 GitHub: github.com/mikefinneran-sudo/obsidian-life-hub
 
 ---
